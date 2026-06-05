@@ -1,3 +1,13 @@
+
+### 添加了app.py
+
+实现EchoNet-Dynamic的前端网页推理功能，点击上传视频或者图片，点击推理，即可一键生成EF和分割后的视频。
+
+![img.png](img.png)
+
+
+### 以下是EchoNet-Dynamic官方的介绍
+
 EchoNet-Dynamic:<br/>Interpretable AI for beat-to-beat cardiac function assessment
 ------------------------------------------------------------------------------
 
