@@ -6,6 +6,11 @@
 ![img.png](img.png)
 
 
+### 模型下载地址
+
+https://github.com/echonet/dynamic/releases/ 下载deeplabv3_resnet50_random.pt 和 r2plus1d_18_32_2_pretrained.pt
+
+
 ### 以下是EchoNet-Dynamic官方的介绍
 
 EchoNet-Dynamic:<br/>Interpretable AI for beat-to-beat cardiac function assessment
